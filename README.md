@@ -4,7 +4,7 @@ An application that can be used by every individual to keep a track of all the d
 
 This Covid-19 tracker also works as a Progressive Web App containing Line and Bar Graph visuals made using react-chartjs-2 library, a Drop Down Menu to check the data of any Country and it can also be added to Home Screen of our Mobile App.
 
-The Application is hosted at : [https://covid-19-tracker-zeta.vercel.app/] 
+
 
 ## Tools used: 
 
